@@ -1,6 +1,5 @@
 # Yael Jakobov
 #
-# "I hereby certify that this program is solely the result of my own work and is in compliance with the Academic Integrity policy of the course syllabus."
 #
 # My project is an interactive game that requires the player to get through the maze, and along the way the player will face obstacles. There are two ways to go through the maze, and end up at the end of the maze. Upon touching the obstacle a small window will pop up with a finance related question, which the player can chose to answer or skip, causing the obstacle to disappear, and allowing the player to move forward. 
  
